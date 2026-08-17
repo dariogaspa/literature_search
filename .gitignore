@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Output della pipeline (non versionati: rigenerabili, e spesso grandi)
+literature_results.csv
+literature_extraction_detailed.csv
+foschini_reproduction_results.csv
+foschini_reproduction_detailed.csv
+foschini_catalog_full.csv
+redshift_spectra_results.csv
+redshift_spectra_detailed.csv
+new_5FGL_AGNs.csv
+
+# Segreti / configurazione locale
+.env
+*.token
+
+# OS
+.DS_Store

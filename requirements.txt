@@ -1,0 +1,6 @@
+pandas
+astroquery
+requests
+beautifulsoup4
+anthropic
+openai
